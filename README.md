@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nksharma063
-- 👀 I’m interested in AI Ecosystem
-- 🌱 I’m currently learning ...Data Science , Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nksharma063@gmail.com/+91 8178340432
+#👋 Hi, I’m Neeraj
+## 👀 I’m interested in AI/ML/DevOps Ecosystem
+## 🌱 I’m currently learning ...DevOps from hero Vired
+####💞️ I’m looking to collaborate on projects
+##### 📫 How to reach me nksharma063@gmail.com/+91 8178340432
 
 <!---
 nksharma063/nksharma063 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
